@@ -1,5 +1,5 @@
 # Barbershop-Reservation-Website
-Barbershop Reservation Website ini dibuat menggunakan bahasa pemrograman python dengan tujuan memudahkan pengguna untuk melakukan reservasi 
+Barbershop Reservation Website ini dibuat menggunakan bahasa pemrograman python dengan tujuan memudahkan pengguna untuk melakukan reservasi.
 Di dalam website ini memiliki fitur :
 1. Register bagi user
 2. Login sebagi user
@@ -17,5 +17,5 @@ Di dalam website ini memiliki fitur :
 10. Logout
 
 Our Project Team :
-Kadek Puja Sandi Yudanandra (123230144)
-Muhammad Aditya Nurdiansyah (123230146)
+1. Kadek Puja Sandi Yudanandra (123230144)
+2. Muhammad Aditya Nurdiansyah (123230146)
